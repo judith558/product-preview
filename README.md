@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Preview](./design/desktop-preview.jpg)
-![Mobile Preview](./design/mobile-design.jpg)
+![Desktop Preview](desktop-preview.jpg)
+![Mobile Preview](mobile-design.jpg)
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yourusername/product-preview-card-component)
-- Live Site URL: [Live Demo](https://yourusername.github.io/product-preview-card-component)
+- Solution URL: [GitHub Repository](https://github.com/judith558/product-preview-card-component)
+- Live Site URL: [Live Demo](https://judith558.github.io/product)
 
 ## My process
 
